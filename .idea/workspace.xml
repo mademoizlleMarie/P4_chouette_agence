@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b137e48-7ed3-4c86-996b-981153b36406" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <workItem from="1589012777529" duration="2488000" />
       <workItem from="1590158903848" duration="3047000" />
       <workItem from="1590434329213" duration="1683000" />
-      <workItem from="1590782989167" duration="1776000" />
+      <workItem from="1590782989167" duration="2432000" />
     </task>
     <servers />
   </component>
@@ -69,5 +70,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590437599421" />
+    <state x="-1466" y="81" width="1365" height="759" key="dock-window-1" timestamp="1590785422623">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1466" y="81" width="1365" height="759" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1590785422623" />
   </component>
 </project>
