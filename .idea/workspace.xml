@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b137e48-7ed3-4c86-996b-981153b36406" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/3.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/dots-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence-banniere.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence-moyen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence-petit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lines-h2-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/texture-paper.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +33,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P4_la_chouette_agence_old" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -84,7 +69,7 @@
       <workItem from="1591158542308" duration="1674000" />
       <workItem from="1591249666331" duration="148000" />
       <workItem from="1591249855910" duration="144000" />
-      <workItem from="1591288807663" duration="1592000" />
+      <workItem from="1591288807663" duration="6054000" />
     </task>
     <servers />
   </component>
@@ -97,9 +82,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589022274341">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1591292590318">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1591292590318" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589022274341" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1590437599421">
       <screen x="0" y="0" width="1920" height="1040" />
