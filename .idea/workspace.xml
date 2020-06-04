@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b137e48-7ed3-4c86-996b-981153b36406" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/et-line.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/blocs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/formHandler.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/gmaps.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-2.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.touchSwipe.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +67,9 @@
       <workItem from="1590158903848" duration="3047000" />
       <workItem from="1590434329213" duration="1683000" />
       <workItem from="1590782989167" duration="3515000" />
-      <workItem from="1590831389998" duration="1223000" />
+      <workItem from="1590831389998" duration="4422000" />
+      <workItem from="1590997422371" duration="7128000" />
+      <workItem from="1591158542308" duration="1674000" />
     </task>
     <servers />
   </component>

@@ -2,12 +2,13 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
+	<code><meta name="robots" content="index, follow"></code>
     <meta name="description" content="Formulaire de contact">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 	<link rel="shortcut icon" type="image/png" href="img/favicon.jpg">
 
 	<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css/style.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="./css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="./css/et-line.min.css">
 
@@ -31,7 +32,7 @@
 		<div class="container bloc-sm">
 			<nav class="navbar row">
 				<div class="navbar-header">
-					<a class="navbar-brand" href="index.html"><img src="img/la-chouette-agence.png" alt="paris web design logo agence web meilleure agence" height="40" /></a>
+					<a class="navbar-brand" href="index.html"><img src="img_compress/la-chouette-agence-petit.png" alt="logo principal de l'agence web design La chouette agence"/></a>
 					<button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
 						<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
 					</button>
@@ -74,40 +75,40 @@
 		<div class="container bloc-lg">
 			<div class="row">
 				<div class="col-sm-6">
-					<form id="form_1" novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
+					<form id="form_1" novalidate success-msg="Votre message a bien été envoyé." fail-msg="Votre message n'a pas pu être envoyé, merci de réessayer ">
 						<div class="form-group">
 							<label for="name">
-								Nom
+								Nom *
 							</label>
 							<input id="name" class="form-control" required />
 						</div>
 						<div class="form-group">
 							<label for="email">
-								Adresse email
+								Adresse email *
 							</label>
 							<input id="email" class="form-control" type="email" required />
 						</div>
 						<div class="form-group">
 							<label for="decouvert">
-								Comment nous avez-vous connu ?
+								Comment nous avez-vous connu ? *
 							</label>
 							<input class="form-control" type="email" required id="decouvert" />
 						</div>
 						<div class="form-group">
 							<label for="message">
-								Brief de votre projet (Ajoutez autant de détails que nécessaire)<br>
+								Brief de votre projet (Ajoutez autant de détails que nécessaire) *<br>
 							</label>
 							<textarea id="message" class="form-control" rows="4" cols="50" required></textarea>
 						</div>
+						<rb> * Elément obligatoire</rb>
 						<button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">
 							Envoyer
 						</button>
 					</form>
 				</div>
-				<div class="col-sm-6">
-					<p>
-						contact@lachouetteagence.com<br>2 place Sathonay 69001 Lyon<br>Ouvert de 9h à 18h, du lundi au vendredi<br>
-					</p>
+				<div class="col-sm-6 adress_contact">
+					<p>contact@lachouetteagence.com<br><br>2 place Sathonay 69001 Lyon<br><br>Ouvert de 9h à 18h, du lundi au vendredi<br></p>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.0829506555824!2d4.827978615774401!3d45.769527821038466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4eb020f3664e9%3A0x13e3d71752922c1f!2s2%20Place%20Sathonay%2C%2069001%20Lyon!5e0!3m2!1sfr!2sfr!4v1591008257302!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 				</div>
 			</div>
 		</div>
@@ -119,9 +120,9 @@
 		<div class="container bloc-sm">
 			<div class="row">
 				<div class="col-sm-12">
-					<p class="text-center white">
+					<h3 class="text-center white">
 						La chouette agence - Agence web basée à Lyon.<br>
-					</p>
+					</h3>
 					<div class="row row-no-gutters social">
 						<div class="col-sm-3">
 							<div class="text-center">
